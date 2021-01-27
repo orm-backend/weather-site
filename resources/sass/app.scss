@@ -1,0 +1,10 @@
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+.table th {
+    text-align: center;
+}
